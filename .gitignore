@@ -1,0 +1,10 @@
+# Packaged artifact
+loveapi_v1_package.zip
+
+# Common OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
